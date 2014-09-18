@@ -1,0 +1,55 @@
+Zachary Pierson
+Chris Smith
+Royce Havelka
+Jake Davidson
+Lyndon Engel
+Wyatt Engel
+joe sieberg
+Grant Hill
+Derek Stotz
+Christian Sieh
+Steven Huerta
+Chad Schwinghammer
+Ian Carlson
+Grant Brewer
+Charlse Parson
+Dylan Payne
+
+3D Fillament
+	-we buy out own fillament so we can do rapid prototyping witht he 3D printing Club
+	-Deciding on collor fillament to buy
+	-dark blue, black, red, gold,
+
+We decided on some Chasisses (both brushless)
+	-Traxxas E-MAXX
+	-Traxxas E-REVO
+
+Pumpkin Chunkin' on the 27th Sep.
+    People that are interested:
+	-Lyndon Engel 
+	-Wyatt Engel
+	-joe sieberg
+	-Jake Davidson
+	-Zachary Pierson
+	-Grant Brewer
+	*Anyone Else??
+
+Job Oppertunities
+
+
+Mentoring for a high school senior project. He want's to build a robot.
+
+This satruday we need to fix GPS driver and IMU. Also Pumpkin Chunkin'
+
+Linux reinstall fest in about 2 weeks! contact Charels Parson for questions
+
+Dr. Mcgough going over lab safty
+
+Extra Work Days
+
+
+Lab Saftey Training:
+Jake Davidson	jake.davidson@mines.sdsmt.edu
+Steven Huerta	steven.huerta@mines.sdsmt.edu
+Lyndon Engel	lyndon.engel@mines.sdsmt.edu
+Wyatt Engel	Wyatt.engel@mines.sdsmt.edu
