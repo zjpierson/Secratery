@@ -1,10 +1,11 @@
 #include <iostream>
+#include <cstdio>
 
 using namespace std;
 
 int main()
 {
-    cout<<"\nHello World!\n";
+    printf("\nHello World!\n");
 
     return 0;
 }
